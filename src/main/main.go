@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.println("HelloRepos!")
+	fmt.println("HelloRepos!Bye!")
 }
